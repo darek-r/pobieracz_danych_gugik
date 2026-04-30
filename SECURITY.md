@@ -3,13 +3,13 @@
 ## PL
 # Bezpieczeństwo
 
-#### Zespół EnviroSolutions traktuje sprawy cyberbezpieczeństwa piorytetowo. Dokładamy wszelkiej staranności, aby nasze oprogramowanie było wolne od błędów i było bezpieczne w użytkowaniu.
+#### Zespół EnviroSolutions traktuje sprawy cyberbezpieczeństwa piorytetowo. Dokładamy wszelkiej staranności, aby nasze oprogramowanie było wolne od błędów i bezpieczne w użytkowaniu.
 
-## Raportowanie podatności na ataki / Reporting a vulnerability
+## Raportowanie podatności na ataki
 
-#### WAŻNE! Jeśli znaleziono lukę w zabezpieczeniach, nie publikujemy jej poprzez narzędzie ISSUE. Prosimy, aby zgłoszenie wysłać pod adres email [security@envirosolutions.pl](mailto:security@envirosolutions.pl)
+#### WAŻNE! Jeśli znaleziono lukę w zabezpieczeniach, nie publikujemy jej poprzez narzędzie ISSUE. Zgłoszenia prosimy wysyłać pod adres email: [security@envirosolutions.pl](mailto:security@envirosolutions.pl)
 
-#### Prosimy załączyć jak najwięcej informacji o zdarzeniu takich jak:
+#### Załącz jak najwięcej informacji o zdarzeniu takich jak:
 - Opis błędu
 - Krok po kroku jak luka została odkryta
 - Źródło pochodzenia wadliwego oprogramowania (github, wtyczki QGIS, strona internetowa, nośnik danych, inne..)
@@ -19,7 +19,7 @@
 
 #### Niezależnie od wyników pracy programistów pracujących nad poprawkami, pamietaj o podstawowych zasadach cyberbezpieczeńtwa:
 - Regularnie aktualizuj oprogramowanie do najnowszej wersji
-- Zabezpiecz dostęp do komputera i do sieci komputerowej
+- Zabezpiecz dostęp do komputera i do sieci
 - Monitoruj system pod kątem nietypowej aktywności
 
 ## EN
@@ -29,7 +29,7 @@
 
 ## Reporting a vulnerability
 
-#### IMPORTANT! If you discover a security vulnerability, please do not open a public ISSUE. Please report it by emailing [security@envirosolutions.pl](mailto:security@envirosolutions.pl)
+#### IMPORTANT! If you discover a security vulnerability, please do not open a public ISSUE. Please report it by emailing: [security@envirosolutions.pl](mailto:security@envirosolutions.pl)
 
 #### Please include the following details in your report:
 - A description of the vulnerability
