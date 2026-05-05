@@ -3,7 +3,7 @@
 ## PL
 # Bezpieczeństwo
 
-#### Zespół EnviroSolutions traktuje sprawy cyberbezpieczeństwa piorytetowo. Dokładamy wszelkiej staranności, aby nasze oprogramowanie było wolne od błędów i bezpieczne w użytkowaniu.
+#### Zespół EnviroSolutions traktuje sprawy cyberbezpieczeństwa priorytetowo. Dokładamy wszelkich starań, aby nasze oprogramowanie było wolne od błędów i bezpieczne w użytkowaniu.
 
 ## Raportowanie podatności na ataki
 
@@ -12,12 +12,12 @@
 #### Załącz jak najwięcej informacji o zdarzeniu takich jak:
 - Opis błędu
 - Krok po kroku jak luka została odkryta
-- Źródło pochodzenia wadliwego oprogramowania (github, wtyczki QGIS, strona internetowa, nośnik danych, inne..)
+- Źródło pochodzenia wadliwego oprogramowania (GitHub, wtyczki QGIS, strona internetowa, nośnik danych, inne.. )
 - Wersja QGIS oraz wersja wtyczki
 
 ## Podstawowe zasady bezpieczeństwa
 
-#### Niezależnie od wyników pracy programistów pracujących nad poprawkami, pamietaj o podstawowych zasadach cyberbezpieczeńtwa:
+#### Niezależnie od wyników pracy programistów pracujących nad poprawkami, pamiętaj o podstawowych zasadach cyberbezpieczeństwa:
 - Regularnie aktualizuj oprogramowanie do najnowszej wersji
 - Zabezpiecz dostęp do komputera i do sieci
 - Monitoruj system pod kątem nietypowej aktywności
@@ -34,7 +34,7 @@
 #### Please include the following details in your report:
 - A description of the vulnerability
 - Steps to reproduce the issue
-- Source of the faulty software (github, QGIS plugins, website, storage medium, other..)
+- Source of the faulty software (GitHub, QGIS plugins, website, storage medium, other.. )
 - QGIS version and plugin version
 
 ## Security best practices
